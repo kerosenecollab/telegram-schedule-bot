@@ -1,6 +1,6 @@
 ## 📌  Telegram Schedule Bot
 
-```md
+
 # Telegram Schedule Bot
 
 ## 📌 Описание
